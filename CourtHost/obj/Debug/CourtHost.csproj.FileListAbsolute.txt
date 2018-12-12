@@ -1,0 +1,8 @@
+C:\Users\Yuri.Pustovoy\documents\visual studio 2017\Projects\CourtService\CourtHost\obj\Debug\CourtHost.csprojResolveAssemblyReference.cache
+C:\Users\Yuri.Pustovoy\documents\visual studio 2017\Projects\CourtService\CourtHost\bin\Debug\CourtHost.exe
+C:\Users\Yuri.Pustovoy\documents\visual studio 2017\Projects\CourtService\CourtHost\bin\Debug\CourtHost.pdb
+C:\Users\Yuri.Pustovoy\documents\visual studio 2017\Projects\CourtService\CourtHost\bin\Debug\CourtService.dll
+C:\Users\Yuri.Pustovoy\documents\visual studio 2017\Projects\CourtService\CourtHost\bin\Debug\CourtService.pdb
+C:\Users\Yuri.Pustovoy\documents\visual studio 2017\Projects\CourtService\CourtHost\obj\Debug\CourtHost.exe
+C:\Users\Yuri.Pustovoy\documents\visual studio 2017\Projects\CourtService\CourtHost\obj\Debug\CourtHost.pdb
+C:\Users\Yuri.Pustovoy\Documents\Visual Studio 2017\Projects\CourtService\CourtHost\bin\Debug\CourtHost.exe.config

@@ -1,0 +1,5 @@
+c:\users\yuri.pustovoy\documents\visual studio 2017\Projects\CourtService\CourtService\bin\Debug\CourtService.dll
+c:\users\yuri.pustovoy\documents\visual studio 2017\Projects\CourtService\CourtService\bin\Debug\CourtService.pdb
+c:\users\yuri.pustovoy\documents\visual studio 2017\Projects\CourtService\CourtService\obj\Debug\CourtService.csprojResolveAssemblyReference.cache
+c:\users\yuri.pustovoy\documents\visual studio 2017\Projects\CourtService\CourtService\obj\Debug\CourtService.dll
+c:\users\yuri.pustovoy\documents\visual studio 2017\Projects\CourtService\CourtService\obj\Debug\CourtService.pdb
